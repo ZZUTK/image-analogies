@@ -15,7 +15,7 @@ setup(
     ],
     install_requires=[
         'h5py>=2.5.0',
-        'Keras>=1.0.0',
+        'Keras==1.2.0',
         'numpy>=1.10.4',
         'Pillow>=3.1.1',
         'PyYAML>=3.11',
